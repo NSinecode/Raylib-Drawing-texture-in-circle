@@ -1,0 +1,6 @@
+﻿  shader test.cpp
+C:\Users\prikh\source\repos\shader test\shader test.cpp(58,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\prikh\source\repos\shader test\shader test.cpp(58,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  shader test.vcxproj -> C:\Users\prikh\source\repos\shader test\Debug\shader test.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
