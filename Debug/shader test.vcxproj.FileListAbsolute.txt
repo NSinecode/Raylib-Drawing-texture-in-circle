@@ -1,3 +1,1 @@
-C:\Users\prikh\source\repos\shader test\Debug\shader test.vcxproj.CopyComplete
 C:\Users\prikh\source\repos\shader test\Debug\shader test.exe
-C:\Users\prikh\source\repos\shader test\Debug\raylib.dll

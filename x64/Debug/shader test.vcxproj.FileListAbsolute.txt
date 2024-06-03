@@ -1,0 +1,3 @@
+C:\Users\prikh\source\repos\shader test\x64\Debug\shader test.vcxproj.CopyComplete
+C:\Users\prikh\source\repos\shader test\x64\Debug\shader test.exe
+C:\Users\prikh\source\repos\shader test\x64\Debug\raylib.dll

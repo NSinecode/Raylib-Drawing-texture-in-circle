@@ -1,0 +1,16 @@
+﻿  CircleTextureDrawing.cpp
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(18,36): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(18,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(18,50): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(18,50): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(46,36): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(46,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(46,50): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\prikh\source\repos\shader test\CircleTextureDrawing.cpp(46,50): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  shader test.cpp
+C:\Users\prikh\source\repos\shader test\shader test.cpp(58,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\prikh\source\repos\shader test\shader test.cpp(58,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  shader test.vcxproj -> C:\Users\prikh\source\repos\shader test\x64\Debug\shader test.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
